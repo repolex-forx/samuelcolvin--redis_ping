@@ -1,0 +1,21 @@
+{
+  "manifest_version": "1.0",
+  "org": "samuelcolvin",
+  "repo": "redis_ping",
+  "versions": [
+    {
+      "commit": "eaae9c32eca5584e2e6da40afb260c2143c5577c",
+      "parsed_at": "2026-10-11T22:03:38.919860+00:00",
+      "filetree": "filetree/eaae9c32eca5584e2e6da40afb260c2143c5577c.nq.gz",
+      "blobs": [
+        "blob/cfdbb6eec53b0e3aad02438ec8587bca11c54f51.nq.gz",
+        "blob/7bed982e04d4efbc27382b5b610d7767923bac6d.nq.gz",
+        "blob/3ed142511a212fe0f9af09022a60b77a7b3cde32.nq.gz",
+        "blob/ea8c4bf7f35f6f77f75d92ad8ce8349f6e81ddba.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
