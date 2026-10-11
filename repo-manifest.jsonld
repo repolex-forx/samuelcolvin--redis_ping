@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/samuelcolvin/redis_ping/commit/eaae9c32eca5584e2e6da40afb260c2143c5577c",
       "git:hexsha": "eaae9c32eca5584e2e6da40afb260c2143c5577c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
